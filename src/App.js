@@ -1,5 +1,4 @@
 import Hero from "./comps/Hero";
-import Sidebar from "./comps/Sidebar";
 
 function App() {
   return (
